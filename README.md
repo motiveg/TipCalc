@@ -33,6 +33,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
+Swift version 4.1
+
+iOS Version 11.4
+
+Layout currently only optimized for iPhone 5S and iPhone SE
+
 Althought Swift shares similarities with other languages, working with it for the first time took a lot of patience (especially when jumping straight into app making as opposed to a console program). Some conventions in naming and syntax were also confusing since most of it was completely new (to me).
 
 Most of the challenges were in the second screen of the app. There were many problems and challenges, many of which were fixed with trial and error because of the unfamiliar language. Some specific problems included: converting/casting, ordering/logic for desired results, and finding solutions for some UI problems. One particular UI problem was the keyboard, which covered fields on the lower half of the screen. A couple of Youtube videos from Paul Solt gave a good start on solving this problem:
